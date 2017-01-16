@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Ace4Dayz</string>
+    <string name="mod_info">Modules Info</string>
+    <string name="cal">Calendar</string>
+    <string name="D_F_M">Distraction Free Mode</string>
+    <string name="toDoList">To Do List</string>
+
+    <string name="settings_label">Settings...</string>
+    <string name="settings_title">Settings</string>
+    <string name="settings_shortcut">setting shortcut</string>
+    <string name="about">About</string>
+    <string name="about_summary">This application aids in the organization of a student\'s work, during their study life, increasing their productivity</string>
+</resources>
